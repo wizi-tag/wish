@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Idle-2.png-ef139e0916be3121811128f1beab3819.stex"
+path="res://.import/Pink_Monster_Run_6.png-7efc4e87edcd1b2e19f2f32b5b26f0af.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprites/Player/Idle-2.png"
-dest_files=[ "res://.import/Idle-2.png-ef139e0916be3121811128f1beab3819.stex" ]
+source_file="res://sprites/Player/Pink_Monster_Run_6.png"
+dest_files=[ "res://.import/Pink_Monster_Run_6.png-7efc4e87edcd1b2e19f2f32b5b26f0af.stex" ]
 
 [params]
 

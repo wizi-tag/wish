@@ -17,6 +17,7 @@ _global_script_class_icons={
 
 config/name="W_I_S_H"
 run/main_scene="res://Level-1.tscn"
+boot_splash/bg_color=Color( 0.654902, 0.945098, 1, 1 )
 config/icon="res://icon.png"
 
 [display]
@@ -31,4 +32,3 @@ window/stretch/aspect="keep"
 [rendering]
 
 quality/2d/use_pixel_snap=true
-environment/default_environment="res://default_env.tres"
